@@ -1,5 +1,3 @@
-# Verifato-Fake-Detector
-
 <h1 align="center"> Frontend do projeto de TCC Fake Detector🖐</h1>
 
 ## 💻 Projeto
